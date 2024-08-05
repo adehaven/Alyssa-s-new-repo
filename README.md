@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adehaven/Alyssa-s-new-repo/HEAD)
+
 # Alyssas-repo-new
 # Harry Potter Fanfiction 
 
